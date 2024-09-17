@@ -1,5 +1,5 @@
 # testRepo
 
-## Editing the file
+## Applied Data Science Captone
 
-It's a markdown file in this repository.
+This repository contains the files associated with Applied Data Science Captone project, from the Coursera.
